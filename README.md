@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @RondelGIT
-- 👀 I’m interested in becoming a front-end developer ;D
-- 🌱 I’m currently learning HTML, CSS, JS
+- 👋 Hi, I’m Rondel
 - 📫 How to reach me: DISCORD - RONDEL#6319
