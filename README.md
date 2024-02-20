@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Rondel
-- 📫 How to reach me: DISCORD - RONDEL#6319
+DISCORD - RONDEL#6319
